@@ -14,11 +14,11 @@ Open <http://localhost:3000> after starting the application.
 
 ## CI/CD Evidence
 
-- [First green workflow run](https://github.com/anxqt0/w8-cicd--66024918-/actions/runs/35253357220)
-- [Intentional failed workflow run](https://github.com/anxqt0/w8-cicd--66024918-/actions/runs/35253450874)
-- [Recovery green workflow run](https://github.com/anxqt0/w8-cicd--66024918-/actions/runs/35253584024)
-- [Pull request with passing status check](https://github.com/anxqt0/w8-cicd--66024918-/pull/1)
-- [Successful workflow after merge](https://github.com/anxqt0/w8-cicd--66024918-/actions/runs/35253873011)
+- [First green workflow run](https://github.com/anxqt0/w8-cicd-anxqt0/actions/runs/35253357220)
+- [Intentional failed workflow run](https://github.com/anxqt0/w8-cicd-anxqt0/actions/runs/35253450874)
+- [Recovery green workflow run](https://github.com/anxqt0/w8-cicd-anxqt0/actions/runs/35253584024)
+- [Pull request with passing status check](https://github.com/anxqt0/w8-cicd-anxqt0/pull/1)
+- [Successful workflow after merge](https://github.com/anxqt0/w8-cicd-anxqt0/actions/runs/35253873011)
 
 ## Self-study Extension
 
