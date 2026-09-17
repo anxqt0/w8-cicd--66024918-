@@ -1,7 +1,7 @@
 const http = require('http');
 
 function createMessage(name = 'Cloud Student') {
-  return `Hello, ${name}! CI/CD is working.`;
+  return `Hello, ${name}! The CI/CD pipeline is working.`;
 }
 
 if (require.main === module) {
@@ -17,4 +17,3 @@ if (require.main === module) {
 }
 
 module.exports = { createMessage };
-
